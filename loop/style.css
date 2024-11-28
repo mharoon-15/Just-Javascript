@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  /* overflow: hidden; */
+  max-width: 1920px;
+  /* margin: 0 auto; */
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
